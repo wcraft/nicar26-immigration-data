@@ -1,2 +1,5 @@
-# nicar26-immigration-data
-Repo of notes for the NICAR 2026 immigration data panel
+# Immigration Data
+
+[Tipsheet](https://docs.google.com/document/d/1JSOIRhzznt-H_vNwv6rPcFi-V0bskRXCs-rrm19u4-Y/edit?usp=sharing)
+
+[Slides](https://docs.google.com/presentation/d/1dxErOuA-1RsyWUN-IuaYTz5GJq9MjonAOMJ6OeDBWf4/edit?usp=sharing)
